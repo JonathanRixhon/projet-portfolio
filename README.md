@@ -22,4 +22,5 @@ La landing page est importante, il faut attirer l'oeil, une animation n'est pas 
 # Notes
 
 Le portfolio doit reflèter notre personalité autant au niveau du visuel et du texte (contenu important).
+
 La landing page dois attirer l'esprit direct. Il est sympa de mettre une petite animation à l'accueil
