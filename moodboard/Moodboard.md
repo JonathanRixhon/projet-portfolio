@@ -1,6 +1,6 @@
 # Moodboard
 
-## Insppirations
+## Inspirations
 
 ### Noir, blanc et sobre
 
@@ -22,8 +22,16 @@ https://www.behance.net/gallery/63065537/My-Portfolio-Website?tracking_source=se
 
 ## Idée livre stylisé
 
+Page d'acceuil ne sera pas un livre mais la pertie portfolio bien. Ou bien je joue le jeu à fond.
+
 ### Industrial design
 
 Ressemble à une sorte de catalogue. Grille super efficace, rythme vertical bien géré et treès grandes images. Grille très propre. Avec un menu, page en vis à vis ou bien un scroll "magnétique" ça peut etre cool. Point négatif: ça ressemble un manuel d'une célèbre marque suédoise.
 
 https://www.behance.net/gallery/103157723/Industrial-Design-Portfolio-2020?tracking_source=search_projects_recommended%7Cportfolio
+
+### Petite landing page
+
+Idée du livre, on ne voit plus l'objet mais on le reconnait. Un peu trop chargé en image à mon goût mais ça donne une petite idée.
+
+https://dribbble.com/shots/9891345-Freshink-magazine
