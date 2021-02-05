@@ -2,13 +2,9 @@
 
 Je m'appelle Jonathan Rixhon, élève en deuxième année à l'HEPL en option web-multimédia. Ce projet fait parite du cours de [design web](https://github.com/hepl-dw/projet-portfolio).
 
-- Doit reflèter notre personalité autant au niveau du visuel et du texte (contenu important).
-
-Fichiers markdown:
+Fichiers:
 
 - Moodboard et dossier avec des images et vidéos
-
-La landing page dois attirer l'esprit direct. Il est sympa de mettre une petite animation à l'accueil
 
 # Méthodologie
 
@@ -22,3 +18,8 @@ Les moodboards sur le web peut être composé de vidéos, liens screenshots. Un 
 La landing page est importante, il faut attirer l'oeil, une animation n'est pas une mauvaise idée.
 
 <!-- ## 2. Faire le cahier des charges -->
+
+# Notes
+
+Le portfolio doit reflèter notre personalité autant au niveau du visuel et du texte (contenu important).
+La landing page dois attirer l'esprit direct. Il est sympa de mettre une petite animation à l'accueil
