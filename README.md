@@ -8,7 +8,17 @@ Fichiers:
 
 # Méthodologie
 
-## 1. Recherches
+## 1. Plan de site
+
+[_Disponible ici_](./markdown_files/plan_site.md)
+
+## 2. Stratégie conceptuelle
+
+_Pas encore disponible_
+
+Texte continu qui explique notre vision du site.
+
+## 3. Recherches
 
 ### Moodboard
 

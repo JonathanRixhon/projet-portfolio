@@ -35,3 +35,10 @@ https://www.behance.net/gallery/103157723/Industrial-Design-Portfolio-2020?track
 Idée du livre, on ne voit plus l'objet mais on le reconnait. Un peu trop chargé en image à mon goût mais ça donne une petite idée.
 
 https://dribbble.com/shots/9891345-Freshink-magazine
+
+## Elements
+
+### Lettrines
+
+Pour rappeller l'aspect livre.
+![Image d'une lettrine](img/lettrine.png)
