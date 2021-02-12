@@ -14,7 +14,7 @@ Fichiers:
 
 ## 2. Stratégie conceptuelle
 
-_Pas encore disponible_
+[_Disponible ici_](./markdown_files/strategie_conceptuelle.md)
 
 Texte continu qui explique notre vision du site.
 

@@ -41,4 +41,5 @@ https://dribbble.com/shots/9891345-Freshink-magazine
 ### Lettrines
 
 Pour rappeller l'aspect livre.
+
 ![Image d'une lettrine](img/lettrine.png)
