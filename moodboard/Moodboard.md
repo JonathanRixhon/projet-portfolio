@@ -22,7 +22,7 @@ https://www.behance.net/gallery/63065537/My-Portfolio-Website?tracking_source=se
 
 ## Idée livre stylisé
 
-Page d'acceuil ne sera pas un livre mais la pertie portfolio bien. Ou bien je joue le jeu à fond.
+Page d'acceuil ne sera pas un livre mais la partie portfolio bien. Ou bien je joue le jeu à fond.
 
 ### Industrial design
 

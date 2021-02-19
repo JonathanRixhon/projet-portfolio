@@ -23,7 +23,7 @@ Texte continu qui explique notre vision du site.
 ### Moodboard
 
 
-[_Moodborad milanote_](https://app.milanote.com/1Lat5i1ryFyC93/portfolio)
+[_Moodborad milanote_](https://app.milanote.com/1Lat5i1ryFyC93?p=U5HIO1ht63K)
 
 [_Disponible ici_](./moodboard/Moodboard.md)
 
