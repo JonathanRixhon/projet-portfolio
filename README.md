@@ -22,6 +22,9 @@ Texte continu qui explique notre vision du site.
 
 ### Moodboard
 
+
+[_Moodborad milanote_](https://app.milanote.com/1Lat5i1ryFyC93/portfolio)
+
 [_Disponible ici_](./moodboard/Moodboard.md)
 
 Les moodboards sur le web peut être composé de vidéos, liens screenshots. Un dossier d'images également. On doit comprendre la direction en lisant le markdown. Les inspirations sympas: [Behance](https://www.behance.net/), [Dribbble](https://dribbble.com/), [Instagram](https://www.instagram.com/), [fonts.com](https://www.fonts.com/https://www.myfonts.com/), [fontSquirrel](https://www.fontsquirrel.com/), dessinateurs, photographes, ect.
