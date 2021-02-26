@@ -9,11 +9,8 @@ Fichiers:
 
 ## 1. Plan de site
 
-[_Disponible ici_](./markdown_files/plan_site.md)
 
 ## 2. Stratégie conceptuelle
-
-[_Disponible ici_](./markdown_files/strategie_conceptuelle.md)
 
 *C'est la partie la plus importante du projet, ses fondations.*
 
@@ -31,11 +28,6 @@ Se fait en même temps qu le moodboard. Permet de décrire ce qu'on a en tête. 
 ## 3. Recherches
 
 ### Moodboard
-
-
-[_Moodborad milanote_](https://app.milanote.com/1Lat5i1ryFyC93?p=U5HIO1ht63K)
-
-[_Disponible ici_](./moodboard/Moodboard.md)
 
 Les moodboards sur le web peut être composé de vidéos, liens screenshots. Un dossier d'images également. On doit comprendre la direction en lisant le markdown. Les inspirations sympas: [Behance](https://www.behance.net/), [Dribbble](https://dribbble.com/), [Instagram](https://www.instagram.com/), [fonts.com](https://www.fonts.com/https://www.myfonts.com/), [fontSquirrel](https://www.fontsquirrel.com/), dessinateurs, photographes, ect.
 La landing page est importante, il faut attirer l'oeil, une animation n'est pas une mauvaise idée.
