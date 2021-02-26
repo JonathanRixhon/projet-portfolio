@@ -24,15 +24,16 @@ Objectifs : présenter des projets, des créations avec des textes explicatifs.
 ## Mes compétences / à propos de moi
 
 Objectifs : montrer ses compétences ( _du coup se vendre un peu_ ) et/ou se présenter.
+<!-- intéréssant pour le référencement, mais sinon c'est surcoté plutot mettre le paquet sur la page d'acceuil mettre les compétences dans la description du projet -->
 
 ### Contenu
 
 - Présentation plus approfondie,
 - Nom de compétence et son niveau.
-
+<!-- 
 ## Interets
 
-Objectifs : montrer ce qu'on aime dans le web, genre site veille et les domaines qui nous plaisent dans le web.
+Objectifs : montrer ce qu'on aime dans le web, genre site veille et les domaines qui nous plaisent dans le web. -->
 
 <!-- ### Contenu -->
 
