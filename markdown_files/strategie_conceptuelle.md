@@ -1,42 +1,87 @@
-# Stratégie
+# Porfolio
+
 ## Objectifs du site
--	Me contacter facilement,
--	Montrer mes projets,
--	Brève présentation,
--	Mettre en valeur mes compétences.
+
+1. Montrer mes compétences,
+2. Me contacter facilement,
+3. Présenter mes projets.
+
 ## Besoins de l’utilisateur
--	Visualiser mes projets,
--	Me contacter.
+
+1. Me connaître,
+2. Voir mes travaux,
+3. Me contacter,
+
 ## Public cible
-Des personnes ou des entreprises qui cherchent un développer web.
+
+Toute personne qui a besoin d'un développeur web ou un designer web. Ces personnes euvent autant être des entreprises, des agences, des privés.
+
 ## Storytelling
-Mon objectif est de me présenter et de montrer mes projets et qu’ensuite on me contacte facilement. Les éléments doivent être disposés dans cet ordre.
+
+Le storytelling est très important, comme le site s'inspire du design des livres, il doit se lire comme une histoire.
+
+Ça commencera par une introduction à qui je suis, ce que je fais concrètement dans le web. Ensuite, l'utilisateur pourra avoi un aperçu des projets réalisés, il n'y en aura que quelques-un pour donner envie de voir le reste. Une fois cette section passée, une invitation à me contacter sera présente.
+
 ## Look and feel général
 
+Un aspect très propre, de granders images et un gros travail sur la typographie sera fait.
+
 ## Plan de site
+
+### Elements communs
+
 ### Accueil
-Objectifs : attirer l’œil, me décrire brièvement et garder l'utilisateur.
-### Contenu :
--	Section : une navigation qui permet de bouger,
--	Section : présentation brève, le métier que j'exerce et un call to action pour me contacter. Ce redirige sur la page de contact.
-### Portfolio
-Objectifs : présenter des projets, des créations avec des textes explicatifs.
-Contenu :
--	Une section par projet avec :
--	Un titre,
--	Des images,
--	Un texte explicatif,
--	Une date.
-### Mes compétences / à propos de moi
-Objectifs : montrer ses compétences (du coup se vendre un peu) et/ou se présenter.
-Contenu
--	Présentation plus approfondie,
--	Nom de compétence et son niveau.
- 
+
+**Objectif**
+Me présenter brièvement, donner envie de me connaitre pour ensuite me contacter.
+
+**Contenu**
+
+Section présentation :
+
+- Logo animé,
+- Brève présentation,
+- Ce que je fais dans le web.
+
+Section aperçu portfolio:
+
+- Un lienb pour "voir plus"
+- Liste des pojets:
+  - Grandes image,
+  - Nom du projet,
+  - "tag" du projet.
+
+Section me contacter :
+
+- Petit texte,
+- Bouton invitant à me contacter par la page de contact.
+
+### Porfolio
+
+**Objectif**
+
+Présenter mes projets et pousser l'utilisateur à découvrir l'entièreté de ceux-ci.
+
+**Contenu**
+
+- Liste de projets:
+  - Photo attirante,
+  - Titre,
+  - Tag pour montrer le "type" de projet,
+  - Lien pour visionner le projet.
+
+### Page projet dédiée
+
+- Bouton retour aux projets,
+- Titre,
+- Texte continu,
+- Images,
+
 ### Contact
-Objectifs : me contacter rapidement.
-Contenu
--	Formulaire de contact rapide
-### Fonctionnalités
-Le menu
-- Animation de transparence au scroll (si scroll il y a). Item de navigation réagissent au survol et un élément graphique vient préciser sur quelle page on est.
+
+- Texte invitant l'utilisateur à me contacter,
+- Formulaire de contact classique :
+  - Nom de l'utilisateur,
+  - Sujet,
+  - Contenu du message.
+- Moyens de contacts divers, lien github,...
