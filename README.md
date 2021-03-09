@@ -78,6 +78,7 @@ Présenter mes projets et pousser l'utilisateur à découvrir l'entièreté de c
 - Titre,
 - Texte continu,
 - Images,
+- Lien vers le projet s'il est en ligne
 
 ### 3. Contact
 
@@ -113,32 +114,12 @@ En dessous du texte explicatif, un CTA sera disponible pour me ocntacter.
 
 ### 2. Porfolio
 
-- Liste de projets:
-  - Photo attirante,
-  - Titre,
-  - Tag pour montrer le "type" de projet,
-  - Lien pour visionner le projet.
+La liste des projets sera une liste d'image à première vue mais lorsqu'on survol une image, le texte corespondant à la vignette apparaîtra car un filtre foncé recouvrira l'image et donc le texte sera visible.
 
 ### 2.1 Page projet dédiée
 
-- Bouton retour aux projets,
-- Titre,
-- Texte continu,
-- Images,
+La page projet se présentra de manière à bien mettre en évidence les photos des projets, la mise en page sera faite de manière moderne mais inspirée de livre. Des animations seront présentes mais encore à définir.
 
 ### 3. Contact
 
-**Objectif**
-
-Me contacter facilement.
-
-**Contenu**
-
-- Texte invitant l'utilisateur à me contacter,
-- Formulaire de contact classique :
-  - Nom de l'utilisateur,
-  - Son adresse mail,
-  - éventuellement un numéro de téléphone,
-  - Sujet,
-  - Contenu du message.
-- Moyens de contacts divers, lien github,...
+La page de contact sera un formulaire assez moderne, avec des animations au survol du bouton d'envois.
